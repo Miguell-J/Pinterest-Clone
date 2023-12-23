@@ -1,4 +1,4 @@
-# Nome do projeto
+# Fake Pinterest
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Miguell-J/Pinterest-Clone?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Miguell-J/Pinterest-Clone?style=for-the-badge)
@@ -16,22 +16,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `<Python / Flask>`
 - Você tem uma máquina `<Windows / Linux / Mac>`.
-
-## 🚀 Instalando <nome_do_projeto>
-
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-
-```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
 
 ## ☕ Usando <nome_do_projeto>
 
