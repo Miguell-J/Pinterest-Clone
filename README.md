@@ -17,7 +17,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `<Python / Flask>`
 - Você tem uma máquina `<Windows / Linux / Mac>`.
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando o FakePinterest
 
 Para usar <nome_do_projeto>, siga estas etapas:
 
@@ -25,7 +25,7 @@ Para usar <nome_do_projeto>, siga estas etapas:
 <exemplo_de_uso>
 ```
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para o FakePinterest
 
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
